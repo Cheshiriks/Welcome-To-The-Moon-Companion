@@ -11,4 +11,4 @@ Welcome-To-The-Moon-Companion is a companion app for independently completing al
 ![WelcomeToTheMoon](https://github.com/Cheshiriks/Welcome-To-The-Moon-Companion/assets/50615459/fec51a08-5830-4656-9c9a-063b6c2cf209)
 
 ## System requirements
-- Unity 2019.4
+- Unity 2022.2.20f1
