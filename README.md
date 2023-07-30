@@ -4,7 +4,7 @@ Unity project for the Welcome to the Moon board game.
 
 Welcome-To-The-Moon-Companion is a companion app for independently completing all 8 scenarios of the board game Welcome to the Moon.
 
-https://cheshiriks.github.io/WelcomeToTheMoonCompanion/
+[Play it now!](https://cheshiriks.github.io/WelcomeToTheMoonCompanion/)
 
 ## How to use?
 - Select the mission you need from the main menu. Use the Next button to place three new cards on the table.
