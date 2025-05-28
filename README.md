@@ -6,6 +6,8 @@ Welcome-To-The-Moon-Companion is a companion app for independently completing al
 
 [Play it now!](https://cheshiriks.github.io/WelcomeToTheMoonCompanion/)
 
+[Google Play](https://play.google.com/store/apps/details?id=com.cheshiriksgames.welcometothemooncompanion)
+
 ## How to use?
 - Select the mission you need from the main menu. Use the Next button to place three new cards on the table.
 - Click on a mission card to turn it upside down.
